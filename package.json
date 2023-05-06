@@ -1,0 +1,16 @@
+{
+  "name": "pupeteer",
+  "version": "1.0.0",
+  "description": "Creating project using javascript and pupeteer",
+  "main": "index.js",
+   "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.1.0",
+    "puppeteer-core": "^20.1.0"
+  }
+}
